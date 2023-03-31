@@ -1,6 +1,6 @@
 # 💫About Me :
 - 🔭 I’m a web developer.
-- 🌱 I’m currently learning Can Tho university.
+- ✍ I'm a college student of: [Can Tho University](https://www.ctu.edu.vn/) (CTU).
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tai.nhat.927758) 
