@@ -28,3 +28,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=teohigh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<a href="https://github.com/teohigh/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teohigh&theme=github-compact&area=true" /></a>
