@@ -1,5 +1,5 @@
 # 💫About Me :
-  I am a student, currently studying in [Can Tho University](https://www.ctu.edu.vn/) (CTU). From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge. 🧠
+  I am a student, currently studying in [Can Tho University](https://www.ctu.edu.vn/) (CTU). From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is sufficient for development. 🧠
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tai.nhat.927758) 
