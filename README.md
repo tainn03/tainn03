@@ -17,8 +17,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-# 📊Languages :
 <br><br>
 <a href="https://github.com/teohigh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teohigh&theme=radical&hide" >
@@ -27,7 +25,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=teohigh&show_icons=true&theme=dark&line_height=30" alt="Tai's github stats"/>
 </a>
 
-### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=teohigh&icon=0&color=0)](https://visitcount.itsvg.in)
