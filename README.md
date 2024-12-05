@@ -19,14 +19,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <br><br>
 <a href="https://github.com/teohigh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teohigh&theme=radical&hide" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainn03&theme=radical&hide" >
 </a>
 <a href="https://github.com/teohigh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=teohigh&show_icons=true&theme=dark&line_height=30" alt="Tai's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tainn03&show_icons=true&theme=dark&line_height=30" alt="Tai's github stats"/>
 </a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=teohigh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tainn03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/teohigh/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teohigh&theme=github-compact&area=true" /></a>
+<a href="https://github.com/tainn03/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tainn03&theme=github-compact&area=true" /></a>
